@@ -15,9 +15,7 @@ TODO
 Compatibility
 ------------------------------------------------------------------------------
 
-* Ember.js v3.8 or above
-* Ember CLI v2.13 or above
-* Node.js v8 or above
+Currently this addon only works with the latest beta of Ember.
 
 
 Installation
